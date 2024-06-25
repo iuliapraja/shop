@@ -1,6 +1,7 @@
 .Pagina{
     background-color: beige;
     color:black;
+    margin:0;
 }
 
 .Menu{
@@ -10,5 +11,9 @@
     height : 2cm;
     font-size: 25px;
     border-bottom: 1px solid rgb(182, 117, 91);
+}
+
+.links{
+    margin-right : 2cm;
 }
 
