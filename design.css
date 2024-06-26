@@ -31,14 +31,14 @@
 .stanga{
     background-color: beige;
     color:black;
-    border-style: double 2px black ;
+    border-style: double ;
     width: 10cm;
     margin-top: 3cm;
 }
 .dreapta{
     background-color: beige;
     color: black;
-    border-style: double 2px black;
+    border-style: double;
     width: 20cm;
     margin-top: 3cm;
 }
