@@ -6,7 +6,7 @@
 }
 
 .Menu{
-    background-color: beige;
+    background-color: lightgray;
     color : black;
     text-align: center;
     height : 2cm;
@@ -17,13 +17,13 @@
 
 .links{
     margin-right : 2cm;
-    color:rgb(98, 73, 51);
+    color:black;
     font-size:15px;
     text-decoration: none;
 }
 .continut{
     text-align: center;
-    background-color: rgb(182, 117, 91);
+    background-color: lightgray;
     color:black;
     margin-top: 2cm;
     height:40cm;
@@ -32,13 +32,11 @@
     align-content: space-between;
     justify-content: space-evenly;
     grid-template-columns: auto auto;
-    grid-template-columns: 1fr 1fr;
-    gap: 10px;
     margin-left: auto;
     margin-right:auto;
 }
 .stanga{
-    background-color: beige;
+    background-color: lightgray;
     color:black;
     border-style: double ;
     width: 10cm;
@@ -46,7 +44,7 @@
     height: 25cm;
 }
 .dreapta{
-    background-color: beige;
+    background-color: lightgray;
     color: black;
     border-style: double;
     width: 20cm;
