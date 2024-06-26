@@ -54,6 +54,9 @@
 .stanga-grup3{
     border-bottom: 1px solid lightgray;
 }
+.pill {
+    border: 1px solid black;
+}
 .dreapta{
     background-color: white;
     color: black;
