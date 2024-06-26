@@ -28,7 +28,7 @@
     margin-top: 2cm;
     height: 30cm;
     width: 40cm;
-    display: grid space-between space-evenly;
+    display: grid;
     grid-template-columns: auto auto;
     margin-left: auto;
     margin-right:auto;
