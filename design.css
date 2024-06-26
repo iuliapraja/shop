@@ -28,6 +28,8 @@
     margin-top: 2cm;
     height: 30cm;
     width: 40cm;
+    display: grid;
+    grid-template-columns: auto auto;
 }
 .stanga{
     background-color: beige;
@@ -35,6 +37,7 @@
     border-style: double ;
     width: 10cm;
     margin-top: 3cm;
+    height: 15cm;
 }
 .dreapta{
     background-color: beige;
@@ -42,4 +45,5 @@
     border-style: double;
     width: 20cm;
     margin-top: 3cm;
+    height:15cm;
 }
