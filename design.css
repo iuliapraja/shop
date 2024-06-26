@@ -36,7 +36,7 @@
     margin-right:auto;
 }
 .stanga{
-    background-color: lightgray;
+    background-color: white;
     color:black;
     border-style: double ;
     width: 10cm;
@@ -44,7 +44,7 @@
     height: 25cm;
 }
 .dreapta{
-    background-color: lightgray;
+    background-color: white;
     color: black;
     border-style: double;
     width: 20cm;
