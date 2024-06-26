@@ -20,4 +20,8 @@
     font-size:15px;
     text-decoration: none;
 }
-
+.sort{
+    text-align: left;
+    background-color: rgb(155, 112, 74);
+    color:black;
+}
