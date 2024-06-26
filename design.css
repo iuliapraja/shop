@@ -30,6 +30,8 @@
     width: 40cm;
     display: grid;
     grid-template-columns: auto auto;
+    margin-left: auto;
+    margin-right:auto;
 }
 .stanga{
     background-color: beige;
