@@ -57,6 +57,10 @@
 .pill {
     border: 1px solid black;
 }
+.pill.principal {
+    background-color: black;
+    color: white;
+}
 .dreapta{
     background-color: white;
     color: black;
