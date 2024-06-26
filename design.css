@@ -46,13 +46,13 @@
     padding: 10px;
 }
 .stanga-grup {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px dotted gray;
 }
 .stanga-grup2{
-    border-bottom: 1px solid gray;
+    border-bottom: 1px dotted gray;
 }
 .stanga-grup3{
-    border-bottom: 1px solid gray;
+    border-bottom: 1px dotted gray;
 }
 .dreapta{
     background-color: white;
