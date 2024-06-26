@@ -26,8 +26,8 @@
     background-color: rgb(182, 117, 91);
     color:black;
     margin-top: 2cm;
-    height: 50cm;
-    width: 70cm;
+    height: 30cm;
+    width: 40cm;
     display: grid;
     align-content: space-between;
     justify-content: space-evenly;
@@ -40,14 +40,14 @@
     color:black;
     border-style: double ;
     width: 10cm;
-    margin-top: 3cm;
-    height: 15cm;
+    margin-top: 2cm;
+    height: 30cm;
 }
 .dreapta{
     background-color: beige;
     color: black;
     border-style: double;
     width: 20cm;
-    margin-top: 3cm;
-    height:15cm;
+    margin-top: 2cm;
+    height:30cm;
 }
