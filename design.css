@@ -2,6 +2,7 @@
     background-color: beige;
     color:black;
     margin:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .Menu{
@@ -19,7 +20,6 @@
     color:black;
     font-size:15px;
     text-decoration: none;
-    font-family: 'Times New Roman';
 }
 .continut{
     text-align: center;
