@@ -45,6 +45,15 @@
     TEXT-ALIGN: left;
     padding: 10px;
 }
+.stanga-grup {
+    border-bottom: 1px solid gray;
+}
+.stanga-grup2{
+    border-bottom: 1px solid gray;
+}
+.stanga-grup3{
+    border-bottom: 1px solid gray;
+}
 .dreapta{
     background-color: white;
     color: black;
