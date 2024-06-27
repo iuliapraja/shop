@@ -85,4 +85,5 @@
     inline-size: auto;
     height: 250px;
     width: 200px;
+    display:inline-block;
 }
