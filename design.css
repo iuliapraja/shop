@@ -85,7 +85,6 @@
     inline-size: auto;
     height: 300px;
     width: 250px;
-    display:inline-block;
 }
 .rounded-box{
     margin-bottom: 10px;
